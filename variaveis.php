@@ -25,7 +25,9 @@ echo "<br />Idade: " . $idadeCliente;
 
 /*
 	não existe conversão de valores na concatenação valores numericos com string, o php converte automaticamente.
-
+	
+	novo testo incluido
+	
 */
 
 
